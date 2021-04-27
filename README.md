@@ -1,6 +1,6 @@
 # Live-Text-Editor
 
-## A text editor web app built using **_Socket.io, React JS and Mongo.DB_**'
+## A text editor web app built using **_Socket.io, React JS and Mongo.DB_**
 
 ### Demo - https://live-text-editor.netlify.app
 
