@@ -25,7 +25,7 @@ const TextEditor = () => {
 
 	//Socket connection
 	useEffect(() => {
-		const s = io('http://localhost:3001');
+		const s = io('https://live-text-editor.herokuapp.com/');
 
 		setSocket(s);
 		return () => {
