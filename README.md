@@ -1,6 +1,6 @@
 # Live-Text-Editor
 
-## A text editor web app built using **_Socket.io, React JS and Mongo.DB_**.A text editor web app built using Socket.io, React JS, and Mongo.DB.
+## A text editor web app built using **_Socket.io, React JS and Mongo.DB_**.
 
 ### Multiple users can view and update the document in real-time without reloading
 
